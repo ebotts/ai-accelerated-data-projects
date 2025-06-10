@@ -1,0 +1,16 @@
+booth_id,venue,location_zone,booth_type,staff_count
+BTH001,The Rowhouse,Balcony,Snacks Only,4
+BTH002,The Rowhouse,Main Entrance,Full Service,4
+BTH003,The Rowhouse,Stage Left,Snacks Only,4
+BTH004,The Rowhouse,Main Entrance,Full Service,5
+BTH005,The Rowhouse,Stage Right,Snacks Only,4
+BTH006,Brick & Barrel,Balcony,Snacks Only,2
+BTH007,Brick & Barrel,Balcony,Snacks Only,3
+BTH008,Brick & Barrel,Stage Right,Full Service,5
+BTH009,Brick & Barrel,Main Entrance,Snacks Only,3
+BTH010,Brick & Barrel,Stage Right,Drinks Only,2
+BTH011,Neon Box,Stage Right,Snacks Only,4
+BTH012,Neon Box,Main Entrance,Snacks Only,4
+BTH013,Neon Box,Rear Bar,Drinks Only,5
+BTH014,Neon Box,Stage Right,Drinks Only,4
+BTH015,Neon Box,Rear Bar,Full Service,3

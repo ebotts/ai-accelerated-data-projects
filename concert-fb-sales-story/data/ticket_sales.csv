@@ -1,0 +1,40 @@
+event_id,event_name,artist_genre,venue,event_date,tickets_sold,doors_open_time,show_start_time,show_end_time
+EVT0001,Dust Motel,Country,Brick & Barrel,3/1/25,598,18:00,19:30,22:00
+EVT0002,Chalk Season,Indie Rock,Neon Box,3/1/25,1135,18:00,19:30,22:00
+EVT0003,Synthetix,EDM,The Rowhouse,3/1/25,1104,18:00,19:30,22:00
+EVT0004,Neon Chapel,Rock,Brick & Barrel,3/6/25,1636,18:00,19:30,22:00
+EVT0005,Laserface,EDM,Neon Box,3/6/25,941,18:00,19:30,22:00
+EVT0006,Honky Tonk Signal,Country,The Rowhouse,3/6/25,488,18:00,19:30,22:00
+EVT0007,Ruby & The Bluejeans,Country,Brick & Barrel,3/11/25,1340,18:00,19:30,22:00
+EVT0008,Dead Fern Club,EDM,Neon Box,3/11/25,1498,18:00,19:30,22:00
+EVT0009,Kira Jade,Indie Rock,The Rowhouse,3/11/25,655,18:00,19:30,22:00
+EVT0010,YNG Wave,Country,Brick & Barrel,3/16/25,1175,18:00,19:30,22:00
+EVT0011,Corazon Electrico,Pop,Neon Box,3/16/25,561,18:00,19:30,22:00
+EVT0012,The Hollow Types,Indie Rock,The Rowhouse,3/16/25,1530,18:00,19:30,22:00
+EVT0013,Velvet Diagram,Rock,Brick & Barrel,3/21/25,1000,18:00,19:30,22:00
+EVT0014,The Quiet Wolves,Folk,Neon Box,3/21/25,1687,18:00,19:30,22:00
+EVT0015,Sol y Mar,Latin Pop,The Rowhouse,3/21/25,1666,18:00,19:30,22:00
+EVT0016,Echo Burn,Country,Brick & Barrel,3/26/25,1140,18:00,19:30,22:00
+EVT0017,JXLYN,Pop,Neon Box,3/26/25,1582,18:00,19:30,22:00
+EVT0018,Voltage Choir,Alt Metal,The Rowhouse,3/26/25,793,18:00,19:30,22:00
+EVT0019,Cumbia Nova,Latin,Brick & Barrel,3/31/25,542,18:00,19:30,22:00
+EVT0020,Silicon Blade,Alt Metal,Neon Box,3/31/25,493,18:00,19:30,22:00
+EVT0021,Lyra Stone,Pop,The Rowhouse,3/31/25,1754,18:00,19:30,22:00
+EVT0022,Mason & Rye,Folk,Brick & Barrel,4/5/25,866,18:00,19:30,22:00
+EVT0023,Black Moth Caravan,Alt Metal,Neon Box,4/5/25,992,18:00,19:30,22:00
+EVT0024,Luna Sombra,Latin Pop,The Rowhouse,4/5/25,563,18:00,19:30,22:00
+EVT0025,Golden Freight,Country,Brick & Barrel,4/10/25,876,18:00,19:30,22:00
+EVT0026,Plastic Monarchs,Indie Rock,Neon Box,4/10/25,606,18:00,19:30,22:00
+EVT0027,Violet Circuit,EDM,The Rowhouse,4/10/25,1178,18:00,19:30,22:00
+EVT0028,Echo June,Rock,Brick & Barrel,4/15/25,969,18:00,19:30,22:00
+EVT0029,Tomb Ritual,EDM,Neon Box,4/15/25,1328,18:00,19:30,22:00
+EVT0030,Nova Lux,Indie Rock,The Rowhouse,4/15/25,1701,18:00,19:30,22:00
+EVT0031,Banjo Current,Folk,Brick & Barrel,4/20/25,1147,18:00,19:30,22:00
+EVT0032,Silver Pines,Folk,Neon Box,4/20/25,733,18:00,19:30,22:00
+EVT0033,Crater Soul,Alt Metal,The Rowhouse,4/20/25,1158,18:00,19:30,22:00
+EVT0034,Flor del Sol,Latin,Brick & Barrel,4/25/25,1127,18:00,19:30,22:00
+EVT0035,Broken Spur,Indie Rock,Neon Box,4/25/25,829,18:00,19:30,22:00
+EVT0036,Wild Mesa,Country,The Rowhouse,4/25/25,1772,18:00,19:30,22:00
+EVT0037,Paper Orchard,Rock,Brick & Barrel,4/30/25,946,18:00,19:30,22:00
+EVT0038,Maple Vein,EDM,Neon Box,4/30/25,1799,18:00,19:30,22:00
+EVT0039,Cleo Valentine,Pop,The Rowhouse,4/30/25,1727,18:00,19:30,22:00
