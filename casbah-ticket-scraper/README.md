@@ -9,7 +9,7 @@ This project will explore ticket listings and trends for San Diego's iconic Casb
 
 ## 🔧 Tools (Planned)
 - Python (BeautifulSoup, pandas)
-- SQLite or MySQL
+- SQLite
 - Tableau
 
 > Work in progress — planning, scaffolding, and research currently underway.
