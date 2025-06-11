@@ -18,6 +18,6 @@ A four-page Tableau Story published on Tableau Public, including:
 - Genre-based sales breakdowns
 - Key takeaways for F&B strategy
 
-[▶️ View Tableau Story on Tableau Public](https://public.tableau.com/views/WhatFansEat/VenueLandingPage)
+[▶️ View Tableau Story on Tableau Public](https://public.tableau.com/views/FBAnalysis_17492647692790/ConcertFBAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 > All data is fictional and generated to demonstrate storytelling and visualization skills.
