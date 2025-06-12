@@ -17,5 +17,5 @@ These projects are designed to showcase strategic thinking, data fluency, and a 
 ### 🎟️ [Concert F&B Sales Story](./concert-fb-sales-story)
 Simulated venue sales data used to explore fan behavior and operational strategy using Tableau Public.
 
-### 🎸 [Casbah Ticket Scraper (WIP)](./casbah-ticket-scraper)
-In-progress Python scraping project exploring historical event listings and ticket trends for a local music venue.
+### 🎸 [Casbah Ticket Scraper](./casbah-ticket-scraper)
+Python scraping project exploring current event listings and ticket trends for a local music venue.
