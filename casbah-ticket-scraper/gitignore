@@ -1,0 +1,46 @@
+
+# ---- macOS system files ----
+.DS_Store
+
+# ---- R-related files ----
+.Rhistory
+.RData
+.Rproj.user/
+
+# ---- Python artifacts ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---- Jupyter Notebook checkpoints ----
+.ipynb_checkpoints/
+
+# ---- SQLite & database backups ----
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# ---- Environment files ----
+.env
+.venv/
+*.env
+*.yml
+
+# ---- Tableau temporary & config files ----
+*.twb~
+*.tds~
+*.bak
+*.twbx
+*.tde
+*.hyper
+*.log
+
+# ---- VS Code workspace settings ----
+.vscode/
+
+# ---- Output and data folders ----
+output/
+data/
