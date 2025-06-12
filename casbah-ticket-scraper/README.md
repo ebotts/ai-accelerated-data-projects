@@ -1,15 +1,23 @@
-# Casbah Ticket Scraper (WIP)
+# 🎸 Casbah Ticket Scraper (One-Time Analysis)
 
-This project will explore ticket listings and trends for San Diego's iconic Casbah venue. The plan is to scrape or simulate historical event data, enrich it with genre and pricing info, and analyze patterns in booking, pricing, and fan interest.
+This project uses a one-time web scrape of the **Casbah** website to explore event listings for the rest of the year at San Diego’s iconic 200-cap venue. While no API or historical archive was available, the goal here is to demonstrate how even basic public data can provide useful insights with the right tools.
 
-## 📌 Goals
-- Build a reproducible scraping or data simulation workflow
-- Explore genre trends, time-of-year patterns, or pricing tiers
-- Practice storing and querying in SQLite
+## 🔍 Key Insights
+- **This venue rocks hard**: The Casbah has live shows most nights, with a packed and varied calendar in the near future.
+- **Affordable fun**: Ticket prices are clustered around $20, with very few outliers.
+- **Eclectic bookings**: A genre word cloud and interactive artist list highlight the venue’s mix of punk, indie, metal, soul, and more.
 
-## 🔧 Tools (Planned)
-- Python (BeautifulSoup, pandas)
-- SQLite or MySQL
-- Tableau
+👉 [Explore the Tableau Dashboard](https://public.tableau.com/views/CasbahWebScrape/CasbahWebScrape)
 
-> Work in progress — planning, scaffolding, and research currently underway.
+## 📚 What This Project Demonstrates
+- **End-to-end ETL**: Scraping → cleaning → writing to SQLite → visualization
+- **Usability-first visuals**: Interactive charts and filters built in Tableau
+- **Room to grow**: Prototype could be expanded with Spotify data, historical trends, or show demand signals
+
+## ⚙️ Tools Used
+- **Python**: BeautifulSoup, pandas
+- **Database**: SQLite
+- **Visualization**: Tableau
+
+## 📍 About the Casbah  
+The **Casbah** is a legendary live music venue in San Diego’s **Middletown** neighborhood. Open since **1989**, it hosts national and local acts across genres, known for its gritty charm and **200-person capacity**.
